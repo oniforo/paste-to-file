@@ -1,6 +1,6 @@
 # Paste to File
 
-![GitHub top language](https://img.shields.io/github/languages/top/oniforo/paste-to-file) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/oniforo/paste-to-file)
+![GitHub top language](https://img.shields.io/github/languages/top/oniforo/paste-to-file) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/oniforo/paste-to-file) ![GitHub](https://img.shields.io/github/license/oniforo/paste-to-file)
 
 The following script was made to help whenever there is a **repetitive copy and paste process**. It automates the pasting part, so you just have to copy whatever you want and all the pasting occurs in a specific file.
 
